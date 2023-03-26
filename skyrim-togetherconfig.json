@@ -339,5 +339,20 @@
         "IsFlagArgument":false,
         "ParamFieldName":"GameServer.uPort",
         "IncludeInCommandLine":false
+    },
+    {
+        "DisplayName":"Download URL",
+        "Category":"Skyrim Together Settings",
+        "Description":"Sets the full URL to download the server from. [Login](https://www.nexusmods.com/) to obtain a current timed URL, then update the server before the timeout",
+        "Keywords":"download,url,settings",
+        "Hidden": false,
+        "FieldName":"DownloadURL",
+        "InputType":"text",
+        "IsFlagArgument":false,
+        "ParamFieldName":"DownloadURL",
+        "IncludeInCommandLine":false,
+        "DefaultValue":"",
+        "Placeholder":"https://www.nexusmods.com/",
+        "EnumValues":{}
     }
 ]
