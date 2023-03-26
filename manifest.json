@@ -1,8 +1,8 @@
 {
 	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1-RFrost619",
-	"authors": ["CubeCoders Limited", "AMP Community", "RFrost619"],
+	"authors": ["RFrost619"],
 	"origin": "https://github.com/RFrost619/AMPTemplates.git",
-	"url": "https://github.com/RFrost619/AMPTemplates",
+	"url": "https://github.com/RFrost619/AMPTemplates/tree/dev",
 	"imagefile": "",
 	"prefix": ".rfrost619-dev",
 	"repotype": "AppTemplates"
