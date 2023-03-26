@@ -315,7 +315,7 @@
         }
     },
     {
-        "DisplayName":"Max Player Count",
+        "DisplayName":"Max Player Counts",
         "Category":"Skyrim Together Settings",
         "Description":"The max number of players that can connect to your server.",
         "Keywords":"player,count,server,settings",
