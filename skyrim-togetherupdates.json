@@ -14,5 +14,16 @@
         "UpdateSourceArgs":"STServer.ini",
         "UpdateSourceTarget":"{{$FullBaseDir}}config/",
         "OverwriteExistingFiles":false
+    },
+    {
+        "UpdateStageName":"Server Download",
+        "UpdateSourcePlatform":"Windows",
+        "UpdateSource":"FetchURL",
+        "UpdateSourceData":"{{DownloadURL}}",
+        "UpdateSourceTarget":"{{$FullBaseDir}}",
+        "UpdateSourceArgs":"SkyrimTogether.zip",
+        "UnzipUpdateSource":true,
+        "OverwriteExistingFiles":true,
+        "DeleteAfterExtract":true
     }
 ]
